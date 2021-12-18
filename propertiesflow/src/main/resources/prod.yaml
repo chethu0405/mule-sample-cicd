@@ -1,0 +1,10 @@
+#By using .yaml file
+http:
+  port: "8081"
+  path: "sample"
+db:
+  host: "localhost"
+  port: "1521"
+  username: "admin"
+  password: "admin" 
+  
